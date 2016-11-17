@@ -1,2 +1,7 @@
-This is the first line of text.
-This is the second line of text.
+Some of the things that I like:  
+Food  
+Animals  
+Technology  
+Anime  
+Music  
+KDramas  
